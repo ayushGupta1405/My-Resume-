@@ -1,8 +1,8 @@
 Data Analyst/ Business Analyst
 AYUSH GUPTA
 +91 9625752136 | Ayush.gupta7952@gmail.com
-(https://www.linkedin.com/ayushgupta795/)[LINKEDIN]
-(https://github.com/ayushGupta1405)[GITHUB]
+(https://www.linkedin.com/ayushgupta795/) [LINKEDIN]
+(https://github.com/ayushGupta1405) [GITHUB]
 Rohini, Delhi
 ## Skills
  
