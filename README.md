@@ -6,13 +6,13 @@ AYUSH GUPTA
 Rohini, Delhi
 ## Skills
  
-•	SQL (SQL Server, MySQL, PostgreSQL)
-•	Python (Pandas, NumPy, SciPy, MatPlotLib)
-•	Tableau
-•	Excel (VLookup, Conditional Formatting, Pivot Tables)
-•	Microsoft Azure (DataBricks, Azure Data Lake, Azure Data Warehouse)
-•	PySpark
-•	Microsoft Power BI
+-	SQL (SQL Server, MySQL, PostgreSQL)
+-	Python (Pandas, NumPy, SciPy, MatPlotLib)
+-	Tableau
+-	Excel (VLookup, Conditional Formatting, Pivot Tables)
+-	Microsoft Azure (DataBricks, Azure Data Lake, Azure Data Warehouse)
+-	PySpark
+-	Microsoft Power BI
  
 ## Projects
 ### DATA SCIENCE JOB MARKET EDA – Personal Project – Philadelphia, PA	April 2020
