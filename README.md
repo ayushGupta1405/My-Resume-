@@ -27,10 +27,15 @@ Rohini, Delhi
    -	Utilized R Studio to perform sentiment analysis on 14,000 Twitter reviews of six major airlines
    -	Performed data cleaning and text analysis to identify the major complaints for each airline successfully
    -	Applied regression and machine learning to produce a final model with an accuracy of 88% and lift of 34%
-### CUSTOMER SALES ANALYSIS – Personal Project – Philadelphia, PA 	November 2019
-   -	Utilized SQL to extract data from 8 different related tables from customer sales databases using JOIN and VIEW
-   -	Transformed and filtered data by using aggregating and filtering functions to improve the reporting process
-   -	Loaded and visualized data with Python to identify key business intelligence that can improve sales performance
+###  PIZZA SALES ANALYSIS – Personal Project – Delhi, India	July 2024
+   -Developed a Comprehensive Sales Analysis: Successfully analyzed 21,350 orders, identifying key sales trends and
+ customer preferences using MySQL, resulting in data-driven insights for business optimization.
+   -Maximized Revenue: Calculated total revenue of 817860 and determined the top revenue-generating pizza types 
+using MySQL, aiding strategic pricing and marketing decisions. 
+   -	Conducted Advanced Data Analytics: Performed complex SQL queries in MySQL, including JOIN, VIEW and SUBQUERY,
+to join tables, and analyze category-wise distribution, cumulative revenue, and the percentage contribution of each 
+pizza type to total sales.
+
 ## Work Experience
 R.S. ENTERPRISES – Paper Company – Delhi, India 	March 2024 - June 2024
    -	Sales Data Analysis and Reporting: Developed and automated daily sales reports using Microsoft Excel and Power BI, resulting in a 30% increase in reporting efficiency and providing valuable insights into 
