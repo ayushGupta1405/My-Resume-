@@ -28,9 +28,9 @@ Rohini, Delhi
    -	Performed data cleaning and text analysis to identify the major complaints for each airline successfully
    -	Applied regression and machine learning to produce a final model with an accuracy of 88% and lift of 34%
 ###  PIZZA SALES ANALYSIS – Personal Project – Delhi, India	July 2024
-   -Developed a Comprehensive Sales Analysis: Successfully analyzed 21,350 orders, identifying key sales trends and
+   - Developed a Comprehensive Sales Analysis: Successfully analyzed 21,350 orders, identifying key sales trends and
  customer preferences using MySQL, resulting in data-driven insights for business optimization.
-   -Maximized Revenue: Calculated total revenue of 817860 and determined the top revenue-generating pizza types 
+   - Maximized Revenue: Calculated total revenue of 817860 and determined the top revenue-generating pizza types 
 using MySQL, aiding strategic pricing and marketing decisions. 
    -	Conducted Advanced Data Analytics: Performed complex SQL queries in MySQL, including JOIN, VIEW and SUBQUERY,
 to join tables, and analyze category-wise distribution, cumulative revenue, and the percentage contribution of each 
